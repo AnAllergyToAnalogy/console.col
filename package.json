@@ -1,0 +1,9 @@
+{
+  "name": "console.col",
+  "version": "0.0.1",
+  "description": "Adds colour functionality to console log",
+  "license": "ISC",
+  "author": "AnAllergyToAnalogy",
+  "type": "module",
+  "main": "index.js"
+}
