@@ -225,6 +225,7 @@ const init = function (){
             console[c] = col[c];
         }
     }
+    console.colourise = col.colour;
     console.col = col.colour;
 }
 init();

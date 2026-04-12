@@ -1,4 +1,4 @@
-# `console.col`
+# `console.colourise`
 
 This is my console colour package. There are many like it but this one is mine.
 

@@ -1,6 +1,6 @@
 {
-  "name": "console.col",
-  "version": "0.0.1",
+  "name": "console.colourise",
+  "version": "0.0.2",
   "description": "Adds colour functionality to console log",
   "license": "ISC",
   "author": "AnAllergyToAnalogy",
