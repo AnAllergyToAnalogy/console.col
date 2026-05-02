@@ -1,6 +1,6 @@
 {
   "name": "console.colourise",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Adds colour functionality to console log",
   "repository": {
     "type": "git",
